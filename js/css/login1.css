@@ -1,0 +1,369 @@
+@charset "utf-8";
+
+
+
+/* CSS Document */
+
+
+
+
+
+
+
+
+
+
+
+
+
+.formwrapper{ width:604px; height:auto;  margin:0px auto;}
+
+
+
+.headtext h2{ background:url(../img/h2bg.jpg) no-repeat; 
+
+
+
+font-weight:normal; font-size:28px; color:#00a64c; margin:0px 0px 0px 30px; font-family:"Times New Roman", Times, serif; padding:10px 0px 3px 40px; text-align: left;}
+
+
+
+.formwrapper h1{ font-size:18px; font-weight:normal; text-align: left; 
+
+
+
+margin:0px 0px 0px 70px; padding:0px; color:#ef9236;}
+
+
+
+.formmainbody{ width:604px; height:auto; }
+
+
+
+.formbody-top{ width:604px; height:35px;background:url(../img/form-top.jpg) no-repeat; }
+
+
+
+.formbody-mid{ width:604px; height:auto; background:url(../img/form-mid.jpg) repeat-y; }
+
+
+
+.formbody-bottom{ width:604px; height:35px;background:url(../img/form-bottom.jpg) no-repeat; }
+
+
+
+.formbody{ width:470px;   height:auto; margin:0px auto; overflow:hidden;}
+
+
+
+
+
+
+.formbody .input_field{ width:470px;   height:auto; overflow:hidden; margin-bottom:10px;}
+
+
+
+
+
+
+
+
+
+.formbody .input_field1{ width:700px; height:auto; overflow:hidden; margin-bottom:10px;}
+
+
+
+.formbody .input_field1 input { width:50px; margin-left:10px;line-height:20px;border: 1px solid #afafaf;height:20px; float:left; }
+
+
+
+.formbody .input_field1 .submit{  background:url(../img/submit.jpg) no-repeat; border:none; cursor:pointer; text-align:left; font-size:12px; font-weight:bold; color:#e6fff7; height:26px; padding:3px 0px 10px 5px ;}
+
+
+
+.formbody .input_field .errormgs{width:270px; color:#F00; font-size:10px; text-align:left; float:right; margin-right:3px; padding:5px 0px 0px 0px;}
+
+
+
+.formbody .input_field2 input { width:120px; margin-left:200px;line-height:20px;border: 1px solid #afafaf;height:20px; float:left; }
+
+
+
+.formbody .input_field select.box {width:250px;line-height:20px;border: 1px solid #afafaf;height:20px; float:left; padding:1px; }
+
+
+
+.error-message{width:270px; color:#F00; font-size:10px; text-align:left; float:right; margin-right:3px; padding:5px 0px 0px 0px;}
+
+
+
+.formbody .input_field2 .submit{ background:url(../img/view.jpg) no-repeat; border: none; cursor:pointer; text-align:left; font-size:12px; font-weight:bold; color:#e6fff7; height:26px; padding:3px 0px 10px 5px ;}
+
+
+
+.button{ background:url(../img/bt_bg.jpg) no-repeat; border: none; cursor:pointer; text-align:left; font-size:12px; font-weight:bold; color:#e6fff7; height:22px;
+
+
+
+padding:4px 0px 0px 12px; width:138px; text-decoration:none;  display:block;}
+
+
+
+
+
+
+
+.fieldsetDiv{min-height:50px; width:248px; margin-right:30px; margin-bottom:15px; float:right;}
+
+
+
+.fieldsetDiv fieldset{border:1px solid #999;  margin:0px;padding:10px\0/;** padding-bottom:10px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*vertical form css 18-06-2012 by sanjay*/
+
+
+
+
+
+
+
+
+
+
+
+.formwrapper-big h2{ background:url(../img/h2bg.jpg) top left no-repeat; 
+
+
+
+font-weight:normal; font-size:28px; color:#00a64c; margin:0px 0px 0px 
+
+
+
+30px; font-family:"Times New Roman", Times, serif; padding:3px 0px 3px 
+
+
+
+40px; text-align: left;}
+
+
+
+.formwrapper-big h1{ font-size:18px; font-weight:normal; text-align: left; 
+
+
+
+margin:0px 0px 0px 70px; padding:0px; color:#ef9236;}
+
+
+
+.formmainbody-big{ width:930px; height:auto; }
+
+
+
+.formbody-top-big{ width:920px; height:38px;background:url(../img/form-top-big.jpg) no-repeat; }
+
+
+
+.formbody-mid-big{ width:920px; height:auto; background:url(../img/form-mid-big.jpg) repeat-y; }
+
+
+
+.formbody-bottom-big{ width:920px; height:34px;background:url(../img/form-bottom-big.jpg) no-repeat; }
+
+
+
+.formbody-big{ width:920px;   height:auto; margin:0px auto; overflow:hidden;}
+
+
+
+.formbody-big label { line-height:20px;text-align:left; font-weight:bold; }
+
+
+
+.formbody-big input { width:95px;line-height:20px;border: 1px solid #afafaf;height:20px;  }
+
+
+
+.formbody-big select{ width:95px;line-height:20px;border: 1px solid #afafaf; padding:2px;  }
+
+
+
+.formbody-big .submit{  background:url(../img/submit.jpg) no-repeat; border:none; cursor:pointer; text-align:left; font-size:12px; font-weight:bold; color:#e6fff7; height:26px; padding:3px 0px 10px 5px ;}
+
+
+
+
+
+
+
+.formbody-big .input_field{ width:930px;    height:auto; overflow:hidden; margin-bottom:10px;}
+
+
+
+.formbody-big .field-inner{width:95px;line-height:20px; float:left; margin-right:7px; height:auto; }
+
+
+
+.formbody-big .input_field1{ width:930px; txt-align:left; height:auto; overflow:hidden; margin-bottom:10px;}
+
+
+
+.formbody-big option { width:200px;line-height:20px;  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.formbody-big .fieldsetDiv{min-height:100px; width:300px; margin-left:102px; margin-bottom:15px; float:left;}
+
+
+
+.formbody-big .fieldsetDiv input { width:auto;line-height:20px;border: none; height:auto;  }
+
+
+
+.formbody-big .fieldsetDiv img{
+
+
+
+			margin-top:8px;
+
+
+
+			margin-left:8px;
+
+
+
+			}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.n-button-left{ float:left; width:11px;height:25px;background: url(../img/button-left.jpg) left no-repeat;}
+
+
+
+.n-button-right{ float:left; width:23px;height:25px;background: url(../img/button-right.jpg) right no-repeat;}
+
+
+
+.n-button-mid{ float:left; width: auto; min-width:45px; text-align:center;height:25px; line-height:25px;background: url(../img/button-mid.jpg) right top repeat-x; }
+
+
+
+.add-button a{ font-weight:bold; color:#E6FFF7; text-decoration:none; cursor:pointer }
+
+
+
+.add-button a:hover{ font-weight:bold; color:#E6FFF7; text-decoration:none; }
+
+
+
+
+
+
+
+.add-button{ width:110px; float:right; }
+
+
+
+
+
+
+
+
+
+
+
+.cancle-button a{ font-weight:bold; color:#E6FFF7; text-decoration:none; cursor:pointer; }
+
+
+
+.cancle-button a:hover{ font-weight:bold; color:#E6FFF7; text-decoration:none; }
+
+
+
+
+
+
+
+.cancle-button{ width:90px; float:right;margin-right: 77px; }
+
+
+
+.bottom-button{ width:400px; margin:0px auto;  overflow:hidden}
+
+
+
+.cap-div{ width:400px; margin:0px auto; }
+
+
+
+.cap-value{ width:179px; margin-left:220px;}
+
+
+
+
+
+
+
+.pay a{ font-weight:bold; color:#E6FFF7; text-decoration:none; cursor:pointer }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.error{ color:#F00; font-size:10px; line-height:15px;}
+
+
+
+.sep{width:945px; border-bottom:#CCC solid 1px; height:2px; margin-bottom:10px;}
+
+
+
